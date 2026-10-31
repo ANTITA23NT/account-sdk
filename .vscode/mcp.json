@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "coinbase": {
+      "type": "http",
+      "url": "https://agents.coinbase.com/mcp"
+    }
+  }
+}
