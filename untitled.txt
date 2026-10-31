@@ -1,0 +1,4 @@
+cd account-sdk-master
+corepack enable
+yarn install
+yarn dev
